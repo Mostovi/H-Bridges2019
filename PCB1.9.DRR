@@ -1,0 +1,103 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB1.9.PcbDoc   11/3/2018  2:25:54 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB1.9.TXT
+EIA File   : PCB1.9.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             126       PTH        74.98mm (2.95inch)
+T2      0.3mm (12mil)                                             Round             20        PTH        189.12mm (7.45inch)
+T3      0.75mm (30mil)                                            Round             3         PTH        5.08mm (0.20inch)
+T4      0.8mm (31mil)                                             Round             8         PTH        35.33mm (1.39inch)
+T5      0.81mm (32mil)                                            Round             100       PTH        301.72mm (11.88inch)
+T6      0.9mm (35mil)                                             Round             3         PTH        2.54mm (0.10inch)
+T7      1mm (39mil)                                               Round             60        PTH        574.29mm (22.61inch)
+T8      1.2mm (47mil)                                             Round             7         PTH        89.72mm (3.53inch)
+T9      1.3mm (51mil)                                             Round             16        PTH        79.78mm (3.14inch)
+T10     1.5mm (59mil)                                             Round             2         PTH        2.99mm (0.12inch)
+T11     2.54mm (100mil)                                           Round             2         PTH        78.73mm (3.10inch)
+T12     3.5mm (138mil)                                            Round             6         PTH        361.27mm (14.22inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              353
+Layer Pair : Top Layer to Inner Layer 1
+ASCII RoundHoles File : PCB1.9.TX1
+EIA File   : PCB1.9.DR1
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      0.3mm (12mil)                                             Round             3         PTH        24.79mm (0.98inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              3
+Layer Pair : Top Layer to Signal Layer 2
+ASCII RoundHoles File : PCB1.9.TX2
+EIA File   : PCB1.9.DR2
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             35        PTH        17.42mm (0.69inch)
+T2      0.3mm (12mil)                                             Round             2         PTH        42.34mm (1.67inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              37
+Layer Pair : Top Layer to GND
+ASCII RoundHoles File : PCB1.9.TX3
+EIA File   : PCB1.9.DR3
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T7      1mm (39mil)                                               Round             17        PTH        218.61mm (8.61inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              17
+Layer Pair : Inner Layer 1 to Bottom Layer
+ASCII RoundHoles File : PCB1.9.TX4
+EIA File   : PCB1.9.DR4
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      0.3mm (12mil)                                             Round             11        PTH        236.57mm (9.31inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              11
+Layer Pair : Signal Layer 2 to Signal Layer 1
+ASCII RoundHoles File : PCB1.9.TX5
+EIA File   : PCB1.9.DR5
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      0.3mm (12mil)                                             Round             9         PTH        53.81mm (2.12inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              9
+Layer Pair : Signal Layer 2 to Bottom Layer
+ASCII RoundHoles File : PCB1.9.TX6
+EIA File   : PCB1.9.DR6
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      0.3mm (12mil)                                             Round             107       PTH        658.95mm (25.94inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              107
+Layer Pair : Signal Layer 1 to Bottom Layer
+ASCII RoundHoles File : PCB1.9.TX7
+EIA File   : PCB1.9.DR7
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      0.3mm (12mil)                                             Round             80        PTH        595.15mm (23.43inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              80
+Layer Pair : GND to Bottom Layer
+ASCII RoundHoles File : PCB1.9.TX8
+EIA File   : PCB1.9.DR8
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      0.3mm (12mil)                                             Round             28        PTH        213.45mm (8.40inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              28
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              645
+----------------------------------------------------------------------------------------------------------------------------------
+Backdrill Totals                                                                    0
+
+Total Processing Time (hh:mm:ss) : 00:00:00

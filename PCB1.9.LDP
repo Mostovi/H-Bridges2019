@@ -1,0 +1,10 @@
+Layer Pairs Export File for PCB: C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\PCB1.9.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb1.9.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Inner1_Blind_Vias|DrillFile=pcb1.9.tx1|DrillLayers=gtl,g1
+LayersSetName=Top_Signal2_Blind_Vias|DrillFile=pcb1.9.tx2|DrillLayers=gtl,g1,g2,g3
+LayersSetName=Top_GND_Blind_Vias|DrillFile=pcb1.9.tx3|DrillLayers=gtl,g1,g2
+LayersSetName=Inner1_Bot_Blind_Vias|DrillFile=pcb1.9.tx4|DrillLayers=g1,g2,g3,g4,gbl
+LayersSetName=Signal2_Signal1_Buried_Vias|DrillFile=pcb1.9.tx5|DrillLayers=g3,g4
+LayersSetName=Signal2_Bot_Blind_Vias|DrillFile=pcb1.9.tx6|DrillLayers=g3,g4,gbl
+LayersSetName=Signal1_Bot_Blind_Vias|DrillFile=pcb1.9.tx7|DrillLayers=g4,gbl
+LayersSetName=GND_Bot_Blind_Vias|DrillFile=pcb1.9.tx8|DrillLayers=g2,g3,g4,gbl

@@ -1,0 +1,164 @@
+*************************************************************
+FileName = PCB1.9.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\matrix\matrix
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\profile
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\top_layer\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\inner_layer_1\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\inner_layer_1\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\gnd\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\gnd\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\signal_layer_2\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\signal_layer_2\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\signal_layer_1\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\signal_layer_1\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill\tools
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill1\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill1\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill1\tools
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill2\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill2\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill2\tools
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill3\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill3\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill3\tools
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill4\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill4\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill4\tools
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill5\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill5\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill5\tools
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill6\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill6\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill6\tools
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill7\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill7\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill7\tools
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill8\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill8\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill8\tools
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill_guide\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill_guide\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\mechanical_1\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\mechanical_1\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill_drawing\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\drill_drawing\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\multi-layer\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\multi-layer\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\dielectric_1\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\dielectric_1\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\dielectric_6\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\dielectric_6\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\dielectric_7\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\dielectric_7\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\dielectric_8\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\dielectric_8\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\dielectric_9\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\dielectric_9\attrlist
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : C:\Users\HBRIDGE\Desktop\KONACNO1.3\KONACNO1.3\2.0\Project Outputs for Ploca1.4\odb\steps\pcb\eda\data
+
